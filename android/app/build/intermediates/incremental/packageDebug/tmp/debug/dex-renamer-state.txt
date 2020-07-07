@@ -1,0 +1,4 @@
+#Mon Jul 06 17:12:32 AMT 2020
+base.0=/home/developer/develop/iApp/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
